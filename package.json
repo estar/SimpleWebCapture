@@ -1,0 +1,9 @@
+{
+    "name": "simplewebcapture", 
+    "license": "MPL 2.0", 
+    "author": "Ewgenij Starostin <SimpleWebCapture@ewgenij-starostin.name>", 
+    "version": "0.1", 
+    "fullName": "SimpleWebCapture", 
+    "id": "SimpleWebCapture@ewgenij-starostin.name", 
+    "description": "Captures websites as PNG images."
+}
