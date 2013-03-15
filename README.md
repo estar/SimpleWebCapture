@@ -19,6 +19,7 @@ Features
 Has:
 * Save full page, visible part, single element or selection as PNG.
 * All of these are accessible through the context menu on a page.
+
 Does not have:
 * Ability to capture the content of plugin windows (Flash, Java etc.).
 * Ads, a ‘pro’ version, an upload service, features that belong into a
